@@ -1,0 +1,17 @@
+Good Luck:
+
+encoder:
+
+-Run the script with the command:
+
+python encoder.py file.gl "Text to be encoded"
+ 
+
+- The encoder encodes the program into a file: file.gl.
+
+
+decoder:
+
+-Run the script with the command:
+
+python decoder.py file.gl
